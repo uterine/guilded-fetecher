@@ -2,7 +2,7 @@ Visit the official Node.js website: https://nodejs.org/
 
 Download the latest version
 
-Run the installer and follow the on-screen instructions
+Run the installer and follow the on screen instructions
 
 Extract the .rar archive to your desktop
 
@@ -15,4 +15,4 @@ cd Desktop
 npm install sqlite3
 
 
-Run auth.bat from the extracted folder to start the script
+Run auth.bat from the extracted folder 
