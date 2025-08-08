@@ -14,5 +14,6 @@ cd Desktop
 
 npm install sqlite3
 
+In the extracted folder, run auth.bat
 
-Run auth.bat from the extracted folder 
+Make sure Guilded is open and you are signed in to your account.
